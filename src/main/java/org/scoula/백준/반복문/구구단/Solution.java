@@ -1,4 +1,4 @@
-package org.scoula.백준.구구단;
+package org.scoula.백준.반복문.구구단;
 
 import java.util.Scanner;
 

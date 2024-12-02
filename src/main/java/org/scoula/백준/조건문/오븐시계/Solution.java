@@ -1,4 +1,4 @@
-package org.scoula.백준.오븐시계;
+package org.scoula.백준.조건문.오븐시계;
 
 import java.util.Scanner;
 

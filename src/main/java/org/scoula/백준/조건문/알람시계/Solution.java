@@ -1,4 +1,4 @@
-package org.scoula.백준.알람시계;
+package org.scoula.백준.조건문.알람시계;
 
 import java.util.Scanner;
 
