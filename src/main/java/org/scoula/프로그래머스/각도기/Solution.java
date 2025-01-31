@@ -1,6 +1,6 @@
 package org.scoula.프로그래머스.각도기;
 
-class Solution {
+public class Solution {
     public int solution (int angle) {
         int answer = 0;
         if (0 < angle && angle < 90)
