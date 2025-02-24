@@ -22,7 +22,7 @@ class Solution {
             count = 0;
             for(int i = 0; i < size; i++){
                 if(memo[i].isEmpty()){
-                    count++;
+                    count++; 
                     continue;
                 }
                 int [] temp = memo[i].poll();
