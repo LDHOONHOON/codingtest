@@ -2,6 +2,7 @@ package org.scoula.프로그래머스.n의배수고르기;
 
 import java.util.*;
 
+//풀이1
 public class Solution {
     public int[] solution(int n, int[] numlist) {
 
@@ -20,3 +21,16 @@ public class Solution {
         return result;
     }
 }
+
+//Array변환 사용코드
+//public class Solution {
+//    public int[] solution(int n, int[] numlist) {
+//        ArrayList<Integer> result = new ArrayList<>();
+//        for(int item : numlist){
+//            if(item % n == 0){
+//                result.add(item);
+//            }
+//        }
+//        return result.stream().mapToInt(x -> x).toArray();
+//    }
+//}
